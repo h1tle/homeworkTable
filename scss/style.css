@@ -1,0 +1,156 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+:focus,
+:active {
+  outline: none;
+}
+
+a:focus,
+a:active {
+  outline: none;
+}
+
+aside,
+nav,
+footer,
+header,
+section {
+  display: block;
+}
+
+html,
+body {
+  height: 100%;
+  min-width: 320px;
+}
+
+body {
+  line-height: 1;
+  font-family: "";
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+input,
+button,
+textarea {
+  font-family: "";
+}
+
+input::-ms-clear {
+  display: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+button::-moz-focus-inner {
+  padding: 0;
+  border: 0;
+}
+
+a,
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+ul li {
+  list-style: none;
+}
+
+img {
+  vertical-align: top;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: inherit;
+  font-size: inherit;
+} 
+/************************************************/
+table {
+  margin: 100px auto;
+  border-collapse: collapse;
+}
+
+td {
+  text-align: center;
+  border: 10px solid #000;
+  height: 75px;
+  width: 75px;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.red {
+  background-color: red;
+  color: white;
+}
+
+.black {
+  background-color: black;
+  color: white;
+}
+
+.blue {
+  background-color: blue;
+  color: white;
+}
+
+.w300 {
+  width: 300px;
+}
+
+.w150 {
+  width: 150px;
+}
+
+.w100 {
+  width: 100px;
+}
+
+.w50 {
+  width: 50px;
+}
+
+.h300 {
+  height: 300px;
+}
+
+.h150 {
+  height: 150px;
+}
+
+.h50 {
+  height: 50px;
+}
+
+.h100 {
+  height: 100px;
+}
+
+.w180 {
+  width: 180px;
+}/*# sourceMappingURL=style.css.map */
